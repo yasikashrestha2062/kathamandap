@@ -72,21 +72,24 @@
 <!-- section-2 starts here-->
  <div class="section-2">
     <div class="container">
-                <div style="text-align: center;font-family: Inter;">
-                   <h1 style="font-size: 37px;font-weight: 650; color:#1A4B98;">Popular Destinations We Offer</h1>
-                   <p style="font-size: large;">"Discover your dream destination with our popular picks."</p>
-                </div>
+                <div class="home-country">
+                <h2 style="font-size: 32px;font-weight: 700; color:#1A4B98; ">Popular Destinations We Offer</h2>
+                <p>"Discover your dream destination with our popular picks."</p>
+                
                
                    <div class="row">
                          <div class="col-lg-6">
 
                             <div class="p-5">
                                 <div class="destination">
-                            <img class="bidesh" src="./images/Aus-1.webp" alt="">
+                                  <div class="media-wrapper">
+                                    <img class="bidesh" src="./images/Aus-1.webp" alt="">
+                                  </div>
+                            
                             
                                 <div class="box-1 ">
-                                    <h3 style="color: #1A4B98; padding-top: 20px; font-family: Inter;font-weight: 600;font-size: 1.1rem;">Australia</h3>
-                                    <p style="font-family: Inter; color: rgb(105, 102, 102); text-align: justify;">Australia, the smallest continent and one of the largest countries on Earth, lying
+                                    <h6> <a href="">Australia</a></h6>
+                                    <p>Australia, the smallest continent and one of the largest countries on Earth, lying
                                          between the Pacific and Indian oceans in the So...</p>
                                          <div class="arrow-bidesh-card "> <i class="ri-arrow-right-s-line arrow"></i>
                                            Learn More </div>
@@ -97,10 +100,13 @@
                          <div class="col-lg-6">
                             <div class=" p-5">
                                 <div class="destination">
-                            <img class="bidesh" src="./images/canada.jpg" alt="">
+                                  <div class="media-wrapper">
+                                  <img class="bidesh" src="./images/canada.jpg" alt="">
+                                  </div>
+                           
                             <div class="box-1 ">
-                                <h3 style="color: #1A4B98; padding-top: 20px; font-family: Inter;font-weight: 600;font-size: 1.1rem;">Canada</h3>
-                                <p style="font-family: Inter; color: rgb(105, 102, 102); text-align: justify;">Canada, second largest country in the world in area (after Russia), occupying roughly  roughly 
+                                <h6><a href=""> Canada</a></h6>
+                                <p>Canada, second largest country in the world in area (after Russia), occupying roughly  roughly 
                                     the northern two-fifths of the continent of ...</p>
                                      <div class="arrow-bidesh-card"> <i class="ri-arrow-right-s-line arrow"></i>
                                         Learn More </div>
@@ -111,11 +117,14 @@
                          <div class="col-lg-6">
                             <div class="p-5">
                                 <div class="destination">
-                            <img  class="bidesh"src="./images/newzeland.jpg" alt="">
+                                  <div class="media-wrapper">
+                                  <img  class="bidesh"src="./images/newzeland.jpg" alt="">
+                                  </div>
+                            
                            
                             <div class="box-1  ">
-                                <h3 style="color: #1A4B98; padding-top: 20px; font-family: Inter;font-weight: 600;font-size: 1.1rem;">New Zealand</h3>
-                                <p style="font-family: Inter; color: rgb(105, 102, 102); text-align: justify;">New Zealand, Māori Aotearoa, island country in the South Pacific Ocean, the southwesternmost
+                                <h6><a href="">New Zealand</a></h6>
+                                <p>New Zealand, Māori Aotearoa, island country in the South Pacific Ocean, the southwesternmost
                                      part of Polynesia. New Zealand is a ...</p>
                                      <div class="arrow-bidesh-card"> <i class="ri-arrow-right-s-line arrow"></i>
                                         Learn More </div>
@@ -126,10 +135,13 @@
                          <div class="col-lg-6">
                             <div class="p-5">
                                 <div class="destination">
-                            <img class="bidesh" src="./images/united kingdom.jpeg" alt="">
+                                  <div class="media-wrapper">
+                                  <img class="bidesh" src="./images/united kingdom.jpeg" alt="">
+                                  </div>
+                            
                             <div class="box-1 ">
-                                <h3 style="color: #1A4B98; padding-top: 20px; font-family: Inter;font-weight: 600;font-size: 1.1rem;">United Kingdom</h3>
-                                <p style="font-family: Inter; color: rgb(105, 102, 102); text-align: justify;">United Kingdom, island country located off the northwestern coast of mainland Europe.
+                                <h6><a href="">United Kingdom</a></h6>
+                                <p>United Kingdom, island country located off the northwestern coast of mainland Europe.
                                      The United Kingdom comprises the whole of th...</p>
                                      <div class="arrow-bidesh-card"> <i class="ri-arrow-right-s-line arrow"></i>
                                         Learn More </div>
@@ -262,12 +274,11 @@
 <!-- section-4 starts here -->
 <section>
     <div class="container">
-        <div class="p-5 m-3">
-        <div style="text-align: center;font-family: Inter ;">
-            <h1 style="font-size: 32px;font-weight: 700; color:#1A4B98;">What Our Students Says About Us?</h1>
-            <p style="font-size: large; padding-top: 5px;">"Discover what our students have to say - their success stories speak for themselves."</p>
-         </div>
-        </div>
+      <div class="home-testimonial">
+      <h2 style="font-size: 32px;font-weight: 700; color:#1A4B98;">What Our Students Says About Us?</h2>
+      <p >"Discover what our students have to say - their success stories speak for themselves."</p>
+      </div>
+        
 
        <div class="row">
         <div class="col-md-4">
