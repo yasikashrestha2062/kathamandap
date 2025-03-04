@@ -57,7 +57,7 @@
                 </button>
                 <div class="collapse navbar-collapse"
                     id="navbarSupportedContent">
-                    <ul class="navbar-nav gap-md-3">
+                    <ul class="navbar-nav ">
                         <li class="nav-item ">
                             <a class="nav-link active content fw-bold"
                                 aria-current="page" href="http://localhost/kasthamandap/index.php#">Home</a>

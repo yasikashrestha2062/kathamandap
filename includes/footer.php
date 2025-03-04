@@ -7,7 +7,7 @@
 </div>
 
     <div class="col-md-2 col-6">
-<h4 class="text-white  mt-5 paragraph">Quick Links</h4>
+<h4 class="text-white   paragraph">Quick Links</h4>
 <ul>
     <li>
         <a href="http://localhost/kasthamandap/about_us.php">About Us</a>
@@ -20,7 +20,7 @@
 
     </div>
     <div class=" col-md-2 col-6">
- <h4 class="mt-5 text-white paragraph ">Countries</h4>  
+ <h4 class=" text-white paragraph ">Countries</h4>  
  <ul>
     <li>
         <a href="http://localhost/kasthamandap/country.php">Country</a>
@@ -32,7 +32,7 @@
 </ul>     
     </div>
     <div class="col-md-2 col-6">
-  <h4 class="mt-5 text-white paragraph">Company</h4> 
+  <h4 class=" text-white paragraph">Company</h4> 
   <ul>
     <li>
         <a href="http://localhost/kasthamandap/our-vision.php">Our Visions </a>

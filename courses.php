@@ -7,33 +7,33 @@
                        
                        <div class="col-lg-3">
                        <div class="course-card" >
-                                    <img src="./images/pte.png" class="course-card-img " alt="...">
+                                   <a href="http://localhost/kasthamandap/PTE.php"><img src="./images/pte.png" class="course-card-img " alt="..."></a> 
                                     <div class="section-card-body">
-                                      <h5 class="section-card-title">PTE</h5>
+                                     <a href="http://localhost/kasthamandap/PTE.php"> <h5 class="section-card-title">PTE</h5></a>
                                       <p class="section-card-text">Getting a good college, having a good education, and then achieving something in their life is every...
 
 </p>
-                                      <a href="#" class="btn btn-danger learn">Learn More</a>
+                                      <a href="http://localhost/kasthamandap/PTE.php" class="btn btn-danger learn">Learn More</a>
                                     </div>
                                   </div>
                        </div>
                        <div class="col-lg-3">
                        <div class="course-card" >
-                                    <img src="./images/iltes.png" class="course-card-img " alt="...">
+                                    <a href="http://localhost/kasthamandap/IELTS.php"><img src="./images/iltes.png" class="course-card-img " alt="..."></a>
                                     <div class="section-card-body">
-                                      <h5 class="section-card-title">IELTS</h5>
+                                      <a href="http://localhost/kasthamandap/IELTS.php"><h5 class="section-card-title">IELTS</h5></a>
                                       <p class="section-card-text">What is IELTS Exam?The International English Language Testing System (IELTS) is a standardized and w...</p>
-                                      <a href="#" class="btn btn-danger learn">Learn More</a>
+                                      <a href="http://localhost/kasthamandap/IELTS.php" class="btn btn-danger learn">Learn More</a>
                                     </div>
                                   </div>
                        </div>
                        <div class="col-lg-3">
                        <div class="course-card" >
-                                    <img src="./images/tofel.png" class="course-card-img " alt="...">
+                                    <a href="http://localhost/kasthamandap/TOFEL.php"><img src="./images/tofel.png" class="course-card-img " alt="..."></a>
                                     <div class="section-card-body">
-                                      <h5 class="section-card-title">TOFEL</h5>
+                                      <a href="http://localhost/kasthamandap/TOFEL.php"><h5 class="section-card-title">TOFEL</h5></a>
                                       <p class="section-card-text">What is ETS TOEFL Exam?The ETS TOEFL exam is a globally accepted, standardised English language test...</p>
-                                      <a href="#" class="btn btn-danger learn">Learn More</a>
+                                      <a href="http://localhost/kasthamandap/TOFEL.php" class="btn btn-danger learn">Learn More</a>
                                     </div>
                                   </div>
                             </div>
