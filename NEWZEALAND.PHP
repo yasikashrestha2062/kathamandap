@@ -1,3 +1,211 @@
 <?php include('includes/header.php') ?>
 
+
+
+
+<section class=" main-hero-banner">
+
+    <div class="blog-1 ">
+        <div class="bannner-wrapper container">
+            <h2 class="text-white">
+               New Zealand
+            </h2>
+            <div>
+                <nav style="--bs-breadcrumb-divider: '/';" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item text-white"><a href="http://localhost/kasthamandap/index.php#">Home</a></li>
+                        <li class="breadcrumb-item text-white"><a href="http://localhost/kasthamandap/country.php">Countries</a></li>
+                        <li class="breadcrumb-item text-white"><a href="#">New Zealand</a></li>
+
+                    </ol>
+                </nav>
+            </div>
+
+
+            <div class="media-wrapper">
+                <img src="./images/Newzealand.jpeg" alt="">
+            </div>
+
+        </div>
+    </div>
+
+
+
+</section>
+<section class=" trial py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-sm-12">
+                <div class="blog-content-card ">
+                    <div class="blog-detail  p-5">
+                    <nav>
+  <div class="nav nav-tabs" id="nav-tab" role="tablist">
+    <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Overview</button>
+    <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Visa Process</button>
+    <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Terms and Conditions</button>
+    <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Success</button>
+
+  </div>
+</nav>
+<div class="tab-content" id="nav-tabContent">
+  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+    <p>New Zealand, Māori Aotearoa, island country in the South Pacific Ocean,
+         the southwesternmost part of Polynesia. New Zealand is a remote land—one 
+         of the last sizable territories suitable for habitation to be populated and 
+         settled—and lies more than 1,000 miles (1,600 km) southeast of Australia,
+          its nearest neighbour. The country comprises two main islands—the North and
+           the South Island—and a number of small islands, some of them hundreds of miles 
+           from the main group. The capital city is Wellington and the largest urban area 
+           Auckland; both are located on the North Island. New Zealand administers the South 
+           Pacific island group of Tokelau and claims a section of the Antarctic continent. 
+           Niue and the Cook Islands are self-governing states in free association with New 
+           
+           Zealand. New Zealand is a land of great contrasts and diversity. Active volcanoes, 
+           spectacular caves, deep glacier lakes, verdant valleys, dazzling fjords, long sandy
+            beaches, and the spectacular snowcapped peaks of the Southern Alps/Kā Tiritiri o
+             te Moana on the South Island—all contribute to New Zealand’s scenic beauty. New 
+             Zealand also has a unique array of vegetation and animal life, much of which
+              developed during the country’s prolonged isolation. It is the sole home, for
+               example, of the long-beaked, flightless kiwi, the ubiquitous nickname for New 
+               Zealanders. New Zealand was the largest country in Polynesia when it was annexed
+                by Great Britain in 1840. Thereafter it was successively a crown colony, a 
+                self-governing colony (1856), and a dominion (1907). By the 1920s it controlled
+                 almost all of its internal and external policies, although it did not become 
+                 fully independent until 1947, when it adopted the Statute of Westminster. 
+                 It is a member of the Commonwealth.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+    <p>New Zealand, Māori Aotearoa, island country in the South Pacific Ocean, the southwesternmost part of Polynesia.  </p>
+  </div>
+  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+  </div>
+  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+  </div>
+</div>
+                    </div>       
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="sticky">
+                <div class="blog-content-card ">
+                    <h3>More Content</h3>
+
+                    <div class="content-card">
+                            <img src="./images/canada.jpg" alt="">
+                            <div class="content-detail">
+                                <h4><a href="http://localhost/kasthamandap/CANADA.PHP">Canada</a></h4>
+                                <p>Canada, second largest country in the world in area (after Russia), oc...</p>
+                            </div>
+                        </div>
+
+                    <div class="content-card">
+                        <img src="./images/Aus-1.webp" alt="">
+                        <div class="content-detail">
+                            <h4><a href="http://localhost/kasthamandap/AUSTRALIA.PHP">Australia</a></h4>
+                            <p>Australia, the smallest continent and one of the largest countries on ...</p>
+                        </div>
+                    </div>
+
+                    
+                    <div class="content-card">
+                        <img src="./images/united kingdom.jpeg" alt="">
+                        <div class="content-detail">
+                            <h4><a href="http://localhost/kasthamandap/UK.PHP">United Kingdom</a></h4>
+                            <p>United Kingdom, island country located off the northwestern coast of m...</p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="blog-country-card ">
+
+                    <h3> Our Courses</h3>
+                    <div class="content-card">
+                        <img src="./images/pte.png" alt="">
+                        <div class="content-detail">
+                            <h4><a href="http://localhost/kasthamandap/PTE.php">PTE</a></h4>
+                            <p>Getting a good college, having a good education, and then achieving so...</p>
+                        </div>
+                    </div>
+
+                    <div class="content-card">
+                        <img src="./images/iltes.png" alt="">
+                        <div class="content-detail">
+                            <h4><a href="http://localhost/kasthamandap/IELTS.php">IELTS</a></h4>
+                            <p>What is IELTS Exam?The International English Language Testing System (...</p>
+                        </div>
+                    </div>
+
+                    <div class="content-card">
+                        <img src="./images/tofel.png" alt="">
+                        <div class="content-detail">
+                            <h4><a href="http://localhost/kasthamandap/IELTS.php">TOFEL</a></h4>
+                            <p>What is ETS TOEFL Exam?The ETS TOEFL exam is a globally accepted, stan...</p>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                <div class="blog-country-card ">
+                    <h3> Our Services</h3>
+                    <div class="single-countries-list d-flex align-items-baseline gap-3 ">
+                        <a class="single-countries-list d-flex align-items-baseline gap-3" href="http://localhost/kasthamandap/SKILL.php">
+                            <i class="fa-solid fa-chevron-right"></i>
+                            <h6>Skill Assessment</h6>
+                        </a>
+                    </div>
+                    <div class="single-countries-list d-flex align-items-baseline gap-3 ">
+                        <a class="single-countries-list d-flex align-items-baseline gap-3" href="http://localhost/kasthamandap/CAREER.php">
+                            <i class="fa-solid fa-chevron-right"></i>
+                            <h6>Career Development Programs</h6>
+                        </a>
+                    </div>
+                    <div class="single-countries-list d-flex align-items-baseline gap-3 ">
+                        <a class="single-countries-list d-flex align-items-baseline gap-3" href="http://localhost/kasthamandap/PROFESSION.php">
+                            <i class="fa-solid fa-chevron-right"></i>
+                            <h6>Professional Year</h6>
+                        </a>
+                    </div>
+                    <div class="single-countries-list d-flex align-items-baseline gap-3 ">
+                        <a class="single-countries-list d-flex align-items-baseline gap-3" href="http://localhost/kasthamandap/EDUCATION.php">
+                            <i class="fa-solid fa-chevron-right"></i>
+                            <h6>Education</h6>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="blog-country-card ">
+                    <h3> Our Blogs</h3>
+                   
+                    <div class="single-countries-list d-flex align-items-baseline gap-3 ">
+                        <a class="single-countries-list d-flex align-items-baseline gap-3" href="http://localhost/kasthamandap/internal-blog1.php">
+                            <i class="fa-solid fa-chevron-right"></i>
+                            <h6>
+                            5 ways to improve yourself</h6>
+                        </a>
+                    </div>
+                    <div class="single-countries-list d-flex align-items-baseline gap-3 ">
+                        <a class="single-countries-list d-flex align-items-baseline gap-3" href="http://localhost/kasthamandap/internal-blog2.php">
+                            <i class="fa-solid fa-chevron-right"></i>
+                            <h6>
+                            Exploring Master's in Social Work Programs in Australia</h6>
+                        </a>
+                    </div>
+                    <div class="single-countries-list d-flex align-items-baseline gap-3 ">
+                        <a class="single-countries-list d-flex align-items-baseline gap-3" href="http://localhost/kasthamandap/internal-blog3.php">
+                            <i class="fa-solid fa-chevron-right"></i>
+                            <h6>Best Countries to study and work for Nepali students</h6>
+                        </a>
+                    </div>
+                </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <?php include('includes/footer.php') ?>
+
+
+

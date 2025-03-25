@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-md-8 col-sm-12">
                 <div class="blog-content-card ">
-                    <div class="blog-detail  p-4">
+                    <div class="blog-detail  p-5">
                         <p>
                             <strong>5 ways to improve yourself</strong>
                         </p>
@@ -140,7 +140,7 @@
                     <div class="content-card">
                         <img src="./images/blog-3.jpg" alt="">
                         <div class="content-detail">
-                            <h4>Best Countries to study and work for Nepali students</h4>
+                            <h4><a href="http://localhost/kasthamandap/internal-blog3.php">Best Countries to study and work for Nepali students</a></h4>
                             <p>Studying and working abroad can be a life-changing experience, and man...</p>
                         </div>
                     </div>

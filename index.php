@@ -3,7 +3,7 @@
             <div class="her-bannner">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6">
+                        <div class="col-md-6">
                             <div class="text-hero-container">
                               
                                 <h1 class="heading-of-section-1 text-center">Kasthamandap Education <span>-
@@ -13,16 +13,19 @@
                                          <form class="d-flex">
 
                                             <button class="btn bg-danger btn-nav-bar"
-                                                type="submit">Learn More</button>
+                                                type="submit"><a href="http://localhost/kasthamandap/about_us.php">Learn More</a></button>
                                         </form>
                                
                                
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-md-6">
                             <div>
-                                <img class="girl-with-laptop"
-                                    src="./images/girl with laptop.png" alt>
+                              <div class="media-wrapper">
+                              <img class="girl-with-laptop"
+                              src="./images/girl with laptop.png" alt>
+                              </div>
+                                
                             </div>
                         </div>
 
@@ -43,25 +46,25 @@
                        </div>
                        <div class="col-lg-3">
                            <div class="p-2 img-container">
-                           <img class="pte" src="./images/pte.png" alt="">
-                          <div class="arrow-card"> <div class="icon"><i class="ri-arrow-right-s-line arrow"></i></div>
-                           <h4 style="font-family: Inter;color:#1A4BA5 ;padding-top: 30px; ">PTE</h4>
+                          <a href="http://localhost/kasthamandap/PTE.php"><img class="pte" src="./images/pte.png" alt=""></a> 
+                          <a href="http://localhost/kasthamandap/PTE.php"><div class="arrow-card"> <div class="icon"><i class="ri-arrow-right-s-line arrow"></i></div></a>
+                           <a href="http://localhost/kasthamandap/PTE.php"><h4 style="font-family: Inter;color:#1A4BA5 ;padding-top: 30px; ">PTE</h4></a>
                        </div>
                        </div>
                        </div>
                        <div class="col-lg-3">
                            <div  class=" p-2">
-                           <img class="pte" src="./images/tofel.png" alt="">
-                           <div class="arrow-card"> <div class="icon"><i class="ri-arrow-right-s-line arrow"></i></div>
-                               <h4 style="font-family: Inter;color:#1A4BA5;padding-top: 30px;">TOFEL</h4>
+                           <a href="http://localhost/kasthamandap/IELTS.php"><img class="pte" src="./images/iltes.png" alt=""></a> 
+                          <a href="http://localhost/kasthamandap/IELTS.php"><div class="arrow-card"> <div class="icon"><i class="ri-arrow-right-s-line arrow"></i></div></a>
+                           <a href="http://localhost/kasthamandap/IELTS.php"><h4 style="font-family: Inter;color:#1A4BA5 ;padding-top: 30px; ">IELTS</h4></a>
                            </div>
                        </div>
                        </div>
                        <div class="col-lg-3">
                            <div  class=" p-2">
-                           <img class="pte" src="./images/iltes.png" alt="">
-                           <div class="arrow-card"> <div class="icon"><i class="ri-arrow-right-s-line arrow"></i></div>
-                               <h4 style="font-family: Inter;color: #1A4BA5;padding-top: 30px;">ILTES</h4>
+                           <a href="http://localhost/kasthamandap/TOFEL.php"><img class="pte" src="./images/tofel.png" alt=""></a> 
+                          <a href="http://localhost/kasthamandap/TOFEL.php"><div class="arrow-card"> <div class="icon"><i class="ri-arrow-right-s-line arrow"></i></div></a>
+                           <a href="http://localhost/kasthamandap/TOFEL.php"><h4 style="font-family: Inter;color:#1A4BA5 ;padding-top: 30px; ">TOFEL</h4></a>
                            </div>
                        </div>
                             </div>
@@ -72,79 +75,79 @@
 <!-- section-2 starts here-->
  <div class="section-2">
     <div class="container">
-                <div class="home-country">
-                <h2 style="font-size: 32px;font-weight: 700; color:#1A4B98; ">Popular Destinations We Offer</h2>
+                <div class="home-country text-center">
+                <h2 style="font-size: 32px;font-weight: 700; color:#1A4B98;">Popular Destinations We Offer</h2>
                 <p>"Discover your dream destination with our popular picks."</p>
                 
                
                    <div class="row">
                          <div class="col-lg-6">
 
-                            <div class="p-5">
+                            <div class="">
                                 <div class="destination">
                                   <div class="media-wrapper">
-                                    <img class="bidesh" src="./images/Aus-1.webp" alt="">
+                                    <a href="http://localhost/kasthamandap/AUSTRALIA.PHP"><img class="bidesh" src="./images/Aus-1.webp" alt=""></a>
                                   </div>
                             
                             
                                 <div class="box-1 ">
-                                    <h6> <a href="">Australia</a></h6>
+                                    <h6> <a href="http://localhost/kasthamandap/AUSTRALIA.PHP">Australia</a></h6>
                                     <p>Australia, the smallest continent and one of the largest countries on Earth, lying
                                          between the Pacific and Indian oceans in the So...</p>
-                                         <div class="arrow-bidesh-card "> <i class="ri-arrow-right-s-line arrow"></i>
-                                           Learn More </div>
+                                         <div class="arrow-bidesh-card "> <a href="http://localhost/kasthamandap/AUSTRALIA.PHP"><i class="ri-arrow-right-s-line arrow"></i>
+                                         Learn More </div></a>
                                         </div>
                             </div>
                         </div>
                          </div>
                          <div class="col-lg-6">
-                            <div class=" p-5">
+                            <div class=" ">
                                 <div class="destination">
                                   <div class="media-wrapper">
-                                  <img class="bidesh" src="./images/canada.jpg" alt="">
+                                 <a href="http://localhost/kasthamandap/CANADA.PHP"><img class="bidesh" src="./images/canada.jpg" alt=""></a> 
                                   </div>
                            
                             <div class="box-1 ">
-                                <h6><a href=""> Canada</a></h6>
+                                <h6><a href="http://localhost/kasthamandap/CANADA.PHP"> Canada</a></h6>
                                 <p>Canada, second largest country in the world in area (after Russia), occupying roughly  roughly 
                                     the northern two-fifths of the continent of ...</p>
-                                     <div class="arrow-bidesh-card"> <i class="ri-arrow-right-s-line arrow"></i>
-                                        Learn More </div>
+                                    <div class="arrow-bidesh-card "> <a href="http://localhost/kasthamandap/CANADA.PHP"><i class="ri-arrow-right-s-line arrow"></i>
+                                    Learn More </div></a>
                             </div>
                         </div>
                         </div>
                          </div>
                          <div class="col-lg-6">
-                            <div class="p-5">
+                            <div class="">
                                 <div class="destination">
                                   <div class="media-wrapper">
-                                  <img  class="bidesh"src="./images/newzeland.jpg" alt="">
+                                 <a href="http://localhost/kasthamandap/NEWZEALAND.PHP"> <img  class="bidesh"src="./images/newzeland.jpg" alt=""></a>
                                   </div>
                             
                            
                             <div class="box-1  ">
-                                <h6><a href="">New Zealand</a></h6>
+                                <h6><a href="http://localhost/kasthamandap/NEWZEALAND.PHP">New Zealand</a></h6>
                                 <p>New Zealand, Māori Aotearoa, island country in the South Pacific Ocean, the southwesternmost
                                      part of Polynesia. New Zealand is a ...</p>
-                                     <div class="arrow-bidesh-card"> <i class="ri-arrow-right-s-line arrow"></i>
-                                        Learn More </div>
+                                     <div class="arrow-bidesh-card "> <a href="http://localhost/kasthamandap/NEWZEALAND.PHP"><i class="ri-arrow-right-s-line arrow"></i>
+                                         Learn More </div></a>
                             </div>
                         </div>
                         </div>
                          </div>
                          <div class="col-lg-6">
-                            <div class="p-5">
+                            <div class="">
                                 <div class="destination">
                                   <div class="media-wrapper">
-                                  <img class="bidesh" src="./images/united kingdom.jpeg" alt="">
+                                  <a href="http://localhost/kasthamandap/UK.PHP"><img class="bidesh" src="./images/united kingdom.jpeg" alt=""></a>
                                   </div>
                             
                             <div class="box-1 ">
-                                <h6><a href="">United Kingdom</a></h6>
+                                <h6><a href="http://localhost/kasthamandap/UK.PHP">United Kingdom</a></h6>
                                 <p>United Kingdom, island country located off the northwestern coast of mainland Europe.
                                      The United Kingdom comprises the whole of th...</p>
-                                     <div class="arrow-bidesh-card"> <i class="ri-arrow-right-s-line arrow"></i>
-                                        Learn More </div>
+                                     <div class="arrow-bidesh-card "> <a href="http://localhost/kasthamandap/UK.PHP"><i class="ri-arrow-right-s-line arrow"></i>
+                                         Learn More </div></a>
                             </div>
                         </div>
                         </div>
@@ -154,8 +157,8 @@
                 
                 <form class="d-flex">
             
-                   <button class="btn bg-danger btn-section-2"
-                       type="submit">View All</button>
+                <button class="btn bg-danger btn-nav-bar"
+                type="submit"><a href="http://localhost/kasthamandap/country.php">View All</a></button>
                </form>
                </div>
             </div>
@@ -185,7 +188,7 @@
                                       <h5 class="card-title">Education</h5>
                                       <p class="card-text">At Kasthamandap Education, we take pride in our team of experts who will guide
                                          you on your academic journey. For many years now, w...</p>
-                                      <a href="#" class="btn btn-danger learn">Learn More</a>
+                                      <a href="http://localhost/kasthamandap/EDUCATION.PHP" class="btn btn-danger learn">Learn More</a>
                                     </div>
                                   </div>
             
@@ -199,7 +202,7 @@
                                       <p class="card-text">Getting your skills assessed is one of the most vital components if you want 
                                         to find yourself migrating to Australia on a perman...</p>
             
-                                      <a href="#" class="btn btn-danger">Learn More</a>
+                                      <a href="http://localhost/kasthamandap/SKILL.PHP" class="btn btn-danger">Learn More</a>
                                     </div>
                                   </div>
             
@@ -213,7 +216,7 @@
                                       <h5 class="card-title">Professional Year</h5>
                                       <p class="card-text"> Professional Year Programs are the structured programs that focus on your professional
                                          development by combining formal learning an...</p>
-                                      <a href="#" class="btn btn-danger">Learn More</a>
+                                      <a href="http://localhost/kasthamandap/PROFESSION.PHP" class="btn btn-danger">Learn More</a>
                                     </div>
                                   </div>
             
@@ -225,7 +228,7 @@
                                       <h5 class="card-title">Career Development Programs</h5>
                                       <p class="card-text">Making job decisions after moving to a new country may be both thrilling and quite difficult.
                                         A helpful hand is always welcome, an...</p>
-                                      <a href="#" class="btn btn-danger">Learn More</a>
+                                      <a href="http://localhost/kasthamandap/CAREER.PHP" class="btn btn-danger">Learn More</a>
                                     </div>
                                   </div>
                               </div>
@@ -316,7 +319,7 @@
           <h5 class="blog-title">5 ways to improve yourself</h5>
        <p class="blog-text">5 ways to improve yourselfStudying in Australia will provide
      you with numerous educational and personal benefits where you can gain experiences and sk...</p>
-          <a href="#" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+          <a href="http://localhost/kasthamandap/internal-blog1.php" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
         </div>
       </div>
     </div>
@@ -327,7 +330,7 @@
               <h5 class="blog-title">Exploring Master's in Social Work Programs in Australia</h5>
               <p class="blog-text">What is a Master of Social Work?Master of Social Work (or MSW) is a graduate degree that equips social workers 
                 to apply for state licensure. Clinical ...</p>
-              <a href="#" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+              <a href="http://localhost/kasthamandap/internal-blog2.php" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
           </div>
         </div>
@@ -339,7 +342,7 @@
                      study and work for Nepali students</h5>
                   <p class="blog-text">Studying and working abroad can be a life-changing experience, and many Nepali students are looking for opportunities
                      to pursue their dreams in foreig...</p>
-                  <a href="#" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                  <a href="http://localhost/kasthamandap/internal-blog3.php" class="btn btn-primary">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
               </div>
             </div>
@@ -349,7 +352,7 @@
  <form class="d-flex">
             
     <button class="btn bg-danger btn-section-4 my-4"
-        type="submit">View All</button>
+        type="submit"><a href="http://localhost/kasthamandap/blog.php">View All</a></button>
 </form>
     </div>
 </section>
